@@ -17,4 +17,4 @@
 
 </div>
 
-![snake gif](https://github.com/seu_usuario/seu_usuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/M1nerin/M1nerin/blob/output/github-contribution-grid-snake.svg)
